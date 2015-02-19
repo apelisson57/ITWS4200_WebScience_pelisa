@@ -1,0 +1,60 @@
+body {
+	font-family: Arial;
+	background-color: #eef;
+}
+
+#tweets {
+	float: left;
+	list-style: none;
+}
+
+
+#tweets li {
+	width: 912px;
+	height: 112px;
+	border: 2px solid #aaa;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	border-radius: 3px;
+	background-color: #fff
+
+}
+
+#tweets img {
+	width: 100px;
+	height: 100px;
+	padding: 3px;
+	border-radius: 55px;
+	float: left;
+	clear: left;
+}
+
+#tweets p {
+	padding: 3px;
+	font-style: italic;
+	color: #88f;
+	text-align: left;
+	float: left;
+	clear: right;
+	margin: 0;
+	width: 700px;
+}
+
+#hashtags {
+	list-style: none;
+	float: left;
+}
+
+#hashtags li {
+	width: 512px;
+	height: 106px;
+	border: 2px solid #fff;
+	border-radius: 3px;
+	color: #fff;
+	background-color: #44a;
+	font-style: bold;
+	padding: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+
+}

@@ -1,0 +1,60 @@
+
+
+/*
+
+	This is some more CSS to smooth things out a bit. It's mostly
+	just sizes and other stuff I couldn't really do in Bootstrap.
+
+*/
+body {
+	font-family: Arial;
+}
+
+#weather {
+	margin: 30px;
+	height: 121px;
+	width: 310px;
+	background-color: #eef;
+
+
+}
+
+#leftdata {
+	clear: left;
+	margin: 5px, 5px, 5px, 5px;
+	height: 115px;
+	width: 135px;
+}
+
+img {
+	padding-top: 10px;
+}
+
+h3 {
+	margin-top: 5px;
+}
+
+#rightdata {
+	clear: right;
+	margin: 5px, 5px, 5px, 5px;
+	padding-top: 15px;
+	height: 115px;
+	width: 135px;
+}
+
+h4 {
+	margin: 0;
+}
+
+#desc {
+	margin-bottom: 6px;
+}
+
+#wind {
+	margin-top: 6px;
+	margin-bottom: 0;
+}
+
+#humid {
+	margin: 0;
+}
